@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Agriptivo and Code crafter<br><br>🌱 I’m currently learning .NET and Azure<br><br>👯 I’m looking to collaborate on Certiblock<br><br>💬 Ask me about next,vite,vue,Laravel,express,Angular and DB<br><br>📫 How to reach me juanyon100@gmail.com<br><br>⚡ Fun fact Here's a fun fact: Octopuses have three hearts! Two pump blood to the gills, and the third circulates it to the rest of the body. The third heart actually stops when they swim, which is why they prefer crawling over swimming.
+🔭 I’m currently working on [Certiblock](http://certiblock.co)<br><br>🌱 I’m currently learning .NET and Azure<br><br>🤝  I'm open to collaborating on open source projects<br><br>💬 Ask me about next,vite,vue,Laravel,express,Angular and DB<br><br>📫 How to reach me juanyon100@gmail.com<br><br>🌍 I'm based in Colombia<br><br>⚡ Fun fact Here's a fun fact: Octopuses have three hearts! Two pump blood to the gills, and the third circulates it to the rest of the body. The third heart actually stops when they swim, which is why they prefer crawling over swimming.
 
 
 ## 🌐 Socials:
@@ -11,8 +11,7 @@
 # 📊 GitHub Stats:
 <a href="https://www.github.com/juanyonda13" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/juanyonda13?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a><br/>
-<a href="http://www.github.com/juanyonda13"><img src="https://github-readme-stats.vercel.app/api?username=juanyonda13&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="juanyonda13's GitHub stats" /></a>
-
+<a href="http://www.github.com/juanyonda13"><img src="https://github-readme-stats.vercel.app/api?username=juanyonda13&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="juanyonda13's GitHub stats" /></a><br/>
 <a href="http://www.github.com/juanyonda13"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juanyonda13&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanyonda13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
