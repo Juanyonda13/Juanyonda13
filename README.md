@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Developer Full stack 🧑‍💻
 --------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanyonda13&label=views%20%F0%9F%91%80&color=8232c3&style=flat" alt="juanyonda13" /> </p>
 
 I'm a full-stack developer with an insatiable curiosity for the world of technology. I'm always eager to learn more, no matter how challenging the task. I love exploring every facet of programming, regardless of the field, and I take pride in always finishing what I start. I'm highly empathetic and consistently keep a cool head under pressure.
 
@@ -32,6 +33,6 @@ src="https://img.shields.io/github/followers/juanyonda13?logo=github&style=for-t
 
 <a href="http://www.github.com/juanyonda13"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juanyonda13&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/juanyonda13"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=juanyonda13&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanyonda13" alt="juanyonda13" /></a> </p>
 
 <a href="https://github.com/juanyonda13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanyonda13&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
