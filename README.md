@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on [Certiblock](http://certiblock.co)<br><br>🌱 I’m currently learning .NET and Azure<br><br>🤝  I'm open to collaborating on open source projects<br><br>💬 Ask me about next,vite,vue,Laravel,express,Angular and DB<br><br>📫 How to reach me juanyon100@gmail.com<br><br>🌍 I'm based in Colombia<br><br>⚡ Fun fact Here's a fun fact: Octopuses have three hearts! Two pump blood to the gills, and the third circulates it to the rest of the body. The third heart actually stops when they swim, which is why they prefer crawling over swimming.
+<br>🌱 I’m currently learning .NET and Azure<br><br>🤝  I'm open to collaborating on open source projects<br><br>💬 Ask me about next,vite,vue,Laravel,express,Angular and DB<br><br>📫 How to reach me juanyon100@gmail.com<br><br>🌍 I'm based in Colombia<br><br>⚡ Fun fact Here's a fun fact: Octopuses have three hearts! Two pump blood to the gills, and the third circulates it to the rest of the body. The third heart actually stops when they swim, which is why they prefer crawling over swimming.
 
 
 ## 🌐 Socials:
